@@ -24,7 +24,9 @@ This project demonstrates front-end concepts such as DOM manipulation, event han
 ---
 
 ## 🎯 Learning Outcomes
+-
+-Improved understanding of DOM
 
--Improved understanding of DOM manipulation
 -Hands-on practice with JavaScript events
+
 -Better CSS layout and styling skills
