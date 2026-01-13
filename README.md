@@ -15,11 +15,13 @@ This project demonstrates front-end concepts such as DOM manipulation, event han
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Built With
 
-- **HTML** – Structure of the chatbox  
-- **CSS** – Styling and layout  
-- **JavaScript** – Chat functionality and interactions  
+| Technology | Purpose |
+|----------|--------|
+| 🧱 HTML | Structure |
+| 🎨 CSS | Styling & layout |
+| ⚡ JavaScript | Logic & interactivity |
 
 ---
 
